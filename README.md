@@ -1,0 +1,2 @@
+# wyzecam
+ip camera
